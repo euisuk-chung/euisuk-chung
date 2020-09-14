@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## Euisuk Chung 🎨
 <div align=center>
   
 <i> "🌱 Industrial Engineer 🌱" </i>
@@ -12,9 +11,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasuchung@gmail.com)](mailto:jasuchung@gmail.com)
 
 </div>
-
----
-## Euisuk Chung 🎨
 
 
 ### Education
