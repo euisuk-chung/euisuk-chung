@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div align=center>
+  
+<i> "Engineers make things, industrial engineers make things better" </i>
+
+</div>
+
 <!--
 **euisuk-chung/euisuk-chung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
