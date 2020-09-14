@@ -2,9 +2,25 @@
 
 <div align=center>
   
-<i> "Engineers make things, industrial engineers make things better" </i>
+<i> "🌱 Industrial Engineer 🌱" </i>
 
 </div>
+
+<div align=center>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/euisuk-chung/)](https://www.linkedin.com/in/euisuk-chung/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasuchung@gmail.com)](mailto:jasuchung@gmail.com)
+
+</div>
+
+---
+## Euisuk Chung 🎨
+
+
+### Education
+- ```2020-``` M.S. Student at [Data Science & Business Analytics Lab.](http://dsba.korea.ac.kr/), School of Industrial Management Engineering, Korea University.
+- ```2014-2020``` Bachelor of Engineering in Industrial Management Engineering, Korea University.
+
 
 <!--
 **euisuk-chung/euisuk-chung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
