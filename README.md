@@ -14,7 +14,7 @@
 
 
 ### Education
-- ```2020-``` M.S. Student at [Data Science & Business Analytics Lab.](http://dsba.korea.ac.kr/), School of Industrial Management Engineering, Korea University.
+- ```2020-2022``` M.S. Student at [Data Science & Business Analytics Lab.](http://dsba.korea.ac.kr/), School of Industrial Management Engineering, Korea University.
 - ```2014-2020``` Bachelor of Engineering in Industrial Management Engineering, Korea University.
 
 
